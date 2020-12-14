@@ -1,10 +1,10 @@
 -- Jogo de sueca
 -- Vou supor que conseguimos representar os naipes dos baralhos
 -- da seguinte forma como se fossem emojis:
--- :diamonds: -> ouros
--- :hearts:   -> copas
--- :spades:   -> espadas
--- :clubs:    -> paus
+-- ouros   -> :diamonds:
+-- copas   -> :hearts:
+-- espadas -> :spades:
+-- paus    -> :clubs:
 
 cards_in_hand = [
  ("A", "espadas"), ("7", "espadas"),
