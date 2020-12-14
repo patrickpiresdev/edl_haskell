@@ -1,3 +1,4 @@
+-- EDUCAÇÃO
 -- Convertendo de binário para decimal
 
 convert acc (position, number)
